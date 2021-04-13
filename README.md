@@ -1,6 +1,4 @@
-# 스타벅스 웹 사이트 클론 코딩 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white)
-
-# ☕ STARBUCKS
+# ☕ STARBUCKS 웹 사이트 클론 코딩 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white)
 
 스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
 꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
@@ -631,5 +629,6 @@ function random(min, max) {
 </ul>
 ```
 
-### 출처
+## 출처
+
 [ParkYoungWoong](https://github.com/ParkYoungWoong/starbucks-vanilla-app)
